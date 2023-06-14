@@ -4,7 +4,7 @@ body {
     width: auto;
     background-repeat: contain;
     background-size: cover;
-    background-image: url("/movies.jpeg");
+    background-image: url("movies.jpeg");
   }
   /* header div */
   .container {
